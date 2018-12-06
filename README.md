@@ -1,2 +1,2 @@
 # python_like
-learn python
+learn python,using it to create!
