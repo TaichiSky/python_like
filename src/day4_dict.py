@@ -1,7 +1,7 @@
 #init
 dict_info = {'name':'dogsky','info':{'height':178.0,'weight':'73kg','skill':'java'}}
 
-#turple
+#tuple
 print('type(1,2,3):',type((1,2,3)))
 
 #get
