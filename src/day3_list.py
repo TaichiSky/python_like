@@ -1,4 +1,10 @@
-#list
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'list'
+
+_author_ = 'dogsky'
+
 lista = [1,'hello',2.3,None,False]
 print('type(lista):',type(lista),'\n lista:',lista
 ,'\n the length of list is :',len(lista))
