@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'dict'
+
+_author_ = 'dogsky'
+
 #init
 dict_info = {'name':'dogsky','info':{'height':178.0,'weight':'73kg','skill':'java'}}
 
