@@ -1,4 +1,10 @@
-#str
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'str'
+
+_author_ = 'dogsky'
+
 print('type(\'hello\'):',type('hello'),'\n type("world"):',type("world"))
 
 #strip()
