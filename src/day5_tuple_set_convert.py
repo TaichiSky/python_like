@@ -1,4 +1,9 @@
-###tuple,set
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'tuple,set'
+
+_author_ = 'dogsky'
 
 ##tuple
 #attributes:Once initialized, it cannot be modified
