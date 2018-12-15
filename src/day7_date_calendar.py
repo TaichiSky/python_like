@@ -1,4 +1,10 @@
-###time,datetime,calendar
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'time,datetime,calendar'
+
+_author_ = 'dogsky'
+
 import time as t
 import datetime as dt
 import calendar as cal
