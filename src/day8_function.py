@@ -1,4 +1,10 @@
-##function
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'function'
+
+_author_ = 'dogsky'
+
 import math as m
 
 ##input name and print welcome message
