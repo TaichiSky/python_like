@@ -1,4 +1,10 @@
-#学习编程的第一句话
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+'basic data type'
+
+_author_ = 'dogsky'
+
 print('hello,python')
 print('you say %s and not the %s' % ('"hello,python"','"hello,world"'))
 ##basic_dataType
