@@ -3,7 +3,7 @@
 
 'dict'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 #init
 dict_info = {'name':'dogsky','info':{'height':178.0,'weight':'73kg','skill':'java'}}
