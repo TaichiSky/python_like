@@ -3,7 +3,7 @@
 
 'list'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 lista = [1,'hello',2.3,None,False]
 print('type(lista):',type(lista),'\n lista:',lista
