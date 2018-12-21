@@ -3,7 +3,7 @@
 
 'tuple,set'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 ##tuple
 #attributes:Once initialized, it cannot be modified
