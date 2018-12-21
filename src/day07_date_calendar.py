@@ -3,7 +3,7 @@
 
 'time,datetime,calendar'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 import time as t
 import datetime as dt
