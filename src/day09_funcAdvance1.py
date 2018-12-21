@@ -3,7 +3,7 @@
 
 'advanced features of the function'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 import os
 
