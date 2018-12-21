@@ -3,7 +3,7 @@
 
 'basic data type'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 print('hello,python')
 print('you say %s and not the %s' % ('"hello,python"','"hello,world"'))
