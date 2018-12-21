@@ -3,7 +3,7 @@
 
 'function-advance2 [closure, anonymous function, decorator]'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 import sys
 import time as t
