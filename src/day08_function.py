@@ -3,7 +3,7 @@
 
 'function'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 import math as m
 
