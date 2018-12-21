@@ -3,7 +3,7 @@
 
 'str'
 
-_author_ = 'dogsky'
+__author__ = 'dogsky'
 
 print('type(\'hello\'):',type('hello'),'\n type("world"):',type("world"))
 
