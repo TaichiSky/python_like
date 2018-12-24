@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 
-'thread'
+'threading'
 
 __author__ = 'dogsky'
 
